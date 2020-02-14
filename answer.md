@@ -13,7 +13,7 @@
 8. Menampung inputan pada v-model.
 9. menggunakan tag {{$property}}
 10. v-if & v-else
-11. Menggunakan perulangan v-for. <li v-for="item in items">{{item.message}}</li>
+11. Menggunakan perulangan v-for="item in items". Untuk menampilkan nilai bisa menggunakan item.atribute (ex: item.name)
 12. Memberikan atribut/nilai unik untuk setiap item
 13. Menampung inputan pada v-model.
 14. Props adalah property yang dimiliki oleh object.
